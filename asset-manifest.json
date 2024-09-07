@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/servicios-abogados/static/css/main.cf604e04.css",
+    "main.js": "/servicios-abogados/static/js/main.c4686844.js",
+    "static/media/lawyer_banner2.png": "/servicios-abogados/static/media/lawyer_banner2.4f0a7699738f49e56557.png",
+    "static/media/lawyer2.png": "/servicios-abogados/static/media/lawyer2.29fd96cd09e450bd7aba.png",
+    "static/media/lawyer1.png": "/servicios-abogados/static/media/lawyer1.d23cbef106dcde499d57.png",
+    "static/media/lawyer3.png": "/servicios-abogados/static/media/lawyer3.1e3daa360fcd0e8540d1.png",
+    "static/media/logo11.png": "/servicios-abogados/static/media/logo11.b588fcb860ed71dd82ee.png",
+    "static/media/servicio_juridico1.png": "/servicios-abogados/static/media/servicio_juridico1.0d302db5bec65eadaf78.png",
+    "static/media/servicio_juridico2.png": "/servicios-abogados/static/media/servicio_juridico2.4088bb61f3aebdc0f78e.png",
+    "static/media/servicio_juridico3.png": "/servicios-abogados/static/media/servicio_juridico3.ef4d4b2b215e607b3f1b.png",
+    "index.html": "/servicios-abogados/index.html",
+    "main.cf604e04.css.map": "/servicios-abogados/static/css/main.cf604e04.css.map",
+    "main.c4686844.js.map": "/servicios-abogados/static/js/main.c4686844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf604e04.css",
+    "static/js/main.c4686844.js"
+  ]
+}
